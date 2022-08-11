@@ -35,6 +35,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxbzxb180&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=zxbzxb180&theme=xcode" /> </div>
 
 [![](https://visitcount.itsvg.in/api?id=zxbzxb180&icon=4&color=0)](https://visitcount.itsvg.in)
