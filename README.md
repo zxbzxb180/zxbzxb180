@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=zxbzxb180&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zxbzxb180&icon=3&color=0)](https://visitcount.itsvg.in)
