@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=zxbzxb180&theme=default&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zxbzxb180&theme=default&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxbzxb180&theme=default&hide_border=false&layout=compact&hide=tcl,C,css,C%2B%2B,tex,tsql,smarty,jupyter%20notebook&langs_count=4)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zxbzxb180&theme=default&hide_border=false&layout=compact&hide=tcl,C,css,C%2B%2B,tex,tsql,smarty,jupyter%20notebook&langs_count=4&exclude_repo=python_work,YueerOnline,chenxiBlog)
 
 ---
 
