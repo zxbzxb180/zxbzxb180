@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- 🌱 I’m currently learning GoLang.
+- 🌱 I’m currently learning Python & GoLang.
 - 👀 I’m interested in playing LOL.
 - 📫 How to reach me: 616529325@qq.com
 
