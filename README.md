@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🌱 I’m currently learning Python & GoLang.
-- 👀 I’m interested in playing LOL.
+- 👀 I’m interested in playing LOL and VALORANT.
 - 📫 How to reach me: 616529325@qq.com
 
 # 💻 Tech Stack:
